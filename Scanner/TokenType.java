@@ -1,3 +1,4 @@
+package Scanner;
 
 public enum TokenType {
     KEYWORD,
