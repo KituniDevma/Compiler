@@ -43,10 +43,13 @@ public class Main {
         }
         return ast;
       }
-    
-      private static void printAST(AST ast) {
-        ast.print();
-      }
+
+
+    // print ast
+    private static void printAST(AST ast) {
+      ast.print();
+
+    }
     
 }  
         
